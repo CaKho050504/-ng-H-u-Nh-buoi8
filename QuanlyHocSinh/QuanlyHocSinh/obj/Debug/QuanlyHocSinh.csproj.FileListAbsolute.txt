@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\QuanlyHocSinh\QuanlyHocSinh\bin\Debug\QuanlyHocSinh.exe.config
+C:\Users\admin\source\repos\QuanlyHocSinh\QuanlyHocSinh\bin\Debug\QuanlyHocSinh.exe
+C:\Users\admin\source\repos\QuanlyHocSinh\QuanlyHocSinh\bin\Debug\QuanlyHocSinh.pdb
+C:\Users\admin\source\repos\QuanlyHocSinh\QuanlyHocSinh\bin\Debug\EntityFramework.dll
+C:\Users\admin\source\repos\QuanlyHocSinh\QuanlyHocSinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\source\repos\QuanlyHocSinh\QuanlyHocSinh\bin\Debug\EntityFramework.xml
+C:\Users\admin\source\repos\QuanlyHocSinh\QuanlyHocSinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\source\repos\QuanlyHocSinh\QuanlyHocSinh\obj\Debug\QuanlyHocSinh.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\QuanlyHocSinh\QuanlyHocSinh\obj\Debug\QuanlyHocSinh.Form1.resources
+C:\Users\admin\source\repos\QuanlyHocSinh\QuanlyHocSinh\obj\Debug\QuanlyHocSinh.Properties.Resources.resources
+C:\Users\admin\source\repos\QuanlyHocSinh\QuanlyHocSinh\obj\Debug\QuanlyHocSinh.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\QuanlyHocSinh\QuanlyHocSinh\obj\Debug\QuanlyHocSinh.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\QuanlyHocSinh\QuanlyHocSinh\obj\Debug\QuanlyHo.D03E1836.Up2Date
+C:\Users\admin\source\repos\QuanlyHocSinh\QuanlyHocSinh\obj\Debug\QuanlyHocSinh.exe
+C:\Users\admin\source\repos\QuanlyHocSinh\QuanlyHocSinh\obj\Debug\QuanlyHocSinh.pdb
